@@ -1,4 +1,4 @@
-<div style="text-allign= center;"> # VISUALIZADOR-AULAS
+<div style="text-align=center;"> # VISUALIZADOR-AULAS
 
 Ferramenta com o objetivo de forncer a grade horária da faculdade
 A interação é feita através do terminal, ainda não havendo interface
