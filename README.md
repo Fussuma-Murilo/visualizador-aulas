@@ -7,7 +7,7 @@ A interação é feita através do terminal, ainda não havendo interface
 ***
 Linguagem: Python
 
-Estrutura de dados: CSV
+Armazenador de dados: CSV
 ***
 **Funcionalidades**:
 
