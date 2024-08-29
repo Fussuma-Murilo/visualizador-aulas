@@ -1,14 +1,13 @@
-# VISUALIZADOR-AULAS
+<div style="text-allign= center;"> # VISUALIZADOR-AULAS
 
 Ferramenta com o objetivo de forncer a grade horária da faculdade
-
 A interação é feita através do terminal, ainda não havendo interface
 
-------------------------------------------------------------------------------------------
+***
 Linguagem: Python
 Estrutura de dados: CSV
-------------------------------------------------------------------------------------------
-Funcionalidades:
+***
+**Funcionalidades**:
 
 - Implementadas:
   - Exibir as aulas do dia atual
@@ -17,8 +16,9 @@ Funcionalidades:
 - Em desenvolvimento:
   - Realizar a alteração das aulas
 
-Outros:
+**Outros**:
 
 - Em desenvolvimento:
   - Interface de usuário
-------------------------------------------------------------------------------------------
+***
+</div>
